@@ -19,6 +19,3 @@ EasyMeet is a simple and user-friendly video call application that allows users 
 ## Screenshots and Demo:
 Here are some screenshots and a demo video of the project:
 
-![Image Description](C:\Users\Banu prakash\Downloads\login.jpg)
-
-[Watch the demo video](assets/demo.mp4)
